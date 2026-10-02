@@ -1,2 +1,2 @@
 # moje_prvni_repo
-Hlavní verze: Tento projekt je o programování.
+Experimentální verze: Tento projekt je o vaření kávy.
