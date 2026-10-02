@@ -1,2 +1,2 @@
 # moje_prvni_repo
-Hlavní verze: Tady se učíme Python.
+Experimentální verze: Tento projekt je o vaření kávy.
